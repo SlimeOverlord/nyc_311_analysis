@@ -1,5 +1,4 @@
 from argparse import ArgumentParser
-import csv
 import pandas as pd
 import dask.dataframe as dd
 
